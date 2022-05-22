@@ -1,0 +1,41 @@
+body{
+
+background-image: url('img/fondo.jpg') ;
+
+}
+
+.container{
+
+    width:400px;
+    background: #c197708a;
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 4%;
+    color: rgb(88, 64, 64);
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 15px;
+
+}
+
+.img{
+    border-radius: 50%;
+    width: 140px;
+    height: 180px;
+}
+
+.container div{
+    text-align: justify;
+
+}
+
+.container ul {
+    padding: 10px 5px;
+    text-align: center;
+}
+
+.container ul a{
+
+margin-left: 5px;
+
+}
